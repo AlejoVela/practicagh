@@ -1,6 +1,6 @@
 /**
  * @author alejovela
  */
-
-alert("hola!!");
-let nombre = prompt("cual es tu nombre");
+const mensaje = () => {
+    alert("hola!!");
+};
